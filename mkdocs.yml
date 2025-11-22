@@ -1,6 +1,64 @@
-site_name: Vrindavan Wiki
+site_name: Project Vrindavan
+site_description: A Place for Silence, Learning, and Inner Connection
+site_url: https://npattisa.github.io/vrindavan-wiki/
+
 theme:
   name: material
+  palette:
+    - scheme: default
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
+
+repo_url: https://github.com/npattisa/vrindavan-wiki
+repo_name: vrindavan-wiki
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
 
 nav:
   - Home: index.md
+  - About:
+    - Introduction: about/introduction.md
+    - Vision & Values: about/vision-values.md
+    - What Makes Us Different: about/difference.md
+  - The Space:
+    - Environment & Setting: space/environment.md
+    - Built Spaces: space/built-spaces.md
+    - Botanical Collection: space/botanical-collection.md
+  - Experience:
+    - Activities & Learning: experience/activities.md
+    - How It Works: experience/how-it-works.md
+    - Visitor Experience: experience/visitor-experience.md
+  - Location:
+    - Getting There: location/getting-there.md
+    - Nearby Attractions: location/nearby-attractions.md
+  - Get Involved:
+    - How to Support: get-involved/support.md
+    - Contact: get-involved/contact.md
