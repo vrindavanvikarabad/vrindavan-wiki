@@ -2,7 +2,7 @@
 
 *A Place for Silence, Learning, and Inner Connection*
 
-![Vrindavan Banner](https://via.placeholder.com/800x300/4CAF50/FFFFFF?text=Project+Vrindavan)
+![Sacred Tree with Anantagiri Hills - Project Vrindavan](images/vrindavan-banner.jpeg)
 
 ## Welcome to Vrindavan
 
