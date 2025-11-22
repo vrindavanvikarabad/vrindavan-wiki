@@ -1,0 +1,6 @@
+site_name: Vrindavan Wiki
+theme:
+  name: material
+
+nav:
+  - Home: index.md
