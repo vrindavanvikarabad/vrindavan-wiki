@@ -4,11 +4,11 @@
 
 Amidst the rush and noise of modern life, Vrindavan offers a space of stillness — a place where people can pause, breathe, and rediscover what it means to learn and live meaningfully.
 
-Spread across **3.75 acres** in Anantagiri Palle village, about 70 kilometers from Hyderabad in Vikarabad district, Vrindavan lies close to sacred sites such as the Anantagiri temple and the Bugga Ramalingeshwara Shiva temple. The surrounding hills, forests, and temples give the space a natural aura of peace and reflection.
+Spread across **3.75 acres** in Anantagiri Palle village, about 70 kilometers from Hyderabad in Vikarabad district, Vrindavan is coincidentally located at Anatagiripalle (Anantagiri Hills). This sacred place lies near Anantagiri Padmanabha Swamy Temple and Bugga Ramalingeshwara Swamy Temple, amidst hills, near the starting point of Muchukunda River (a major tributary of Krishna River, commonly known as Musi).
 
 ## A Collective Vision
 
-Vrindavan is not a resort, not a commercial getaway. It is a collective effort of **thirteen partners** — software professionals, scientists, doctors, teachers, educationalists, industry professionals, and school principals — who came together with a shared vision:
+Vrindavan is not a resort, not a commercial getaway. It is a collective effort of people from different walks of life with a shared vision who came together with a common purpose. This space is not driven by sectarian ideologies but by a universal approach to learning and growth.
 
 !!! quote "Our Mission"
     "To create a space that nurtures silence, focus, and learning — in any form that benefits humanity."
@@ -17,18 +17,7 @@ Each partner contributed not merely funds but personal time, energy, and heart. 
 
 > "We did not choose this project; it chose us."
 
-## The Partners
-
-Our diverse group of partners brings together expertise from various fields:
-
-- **Software Professionals** - Bringing technology and innovation
-- **Scientists** - Contributing research and analytical thinking  
-- **Doctors** - Adding wellness and health perspectives
-- **Teachers & Educationalists** - Providing pedagogical expertise
-- **Industry Professionals** - Offering practical business insights
-- **School Principals** - Contributing educational leadership
-
-This diversity ensures that Vrindavan serves multiple learning styles and interests while maintaining its core focus on meaningful growth and development.
+Coincidentally, the space's north-east alignment follows Vastu Shastra principles, known to be auspicious. The space serves multiple purposes including workshops, retreats, work meetings, knowledge sharing, and brainstorming sessions.
 
 ## Location & Setting
 
@@ -36,11 +25,13 @@ This diversity ensures that Vrindavan serves multiple learning styles and intere
 **Distance:** ~70 km from Hyderabad  
 **Area:** 3.75 acres
 
-### Nearby Sacred Sites
-- [Anantagiri Temple](../location/nearby-attractions.md#anantagiri-temple) - Dedicated to Lord Anantha Padmanabha
-- [Bugga Ramalingeshwara Shiva Temple](../location/nearby-attractions.md#bugga-ramalingeshwara-temple) - Ancient temple with natural spring
+### Sacred Environment
+- Near [Anantagiri Padmanabha Swamy Temple](../location/nearby-attractions.md#anantagiri-temple)
+- Close to [Bugga Ramalingeshwara Swamy Temple](../location/nearby-attractions.md#bugga-ramalingeshwara-temple)
+- Starting point of Muchukunda River (tributary of Krishna River/Musi)
+- Amidst Anantagiri Hills with natural aura of peace
 
-The surrounding hills, forests, and temples give the space a natural aura of peace and reflection, making it an ideal location for learning and inner connection.
+The surrounding hills, forests, and sacred sites create an ideal environment for learning, reflection, and meaningful work.
 
 ---
 

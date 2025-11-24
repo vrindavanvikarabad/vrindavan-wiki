@@ -2,25 +2,13 @@
 
 ## Natural Beauty
 
-Vrindavan is surrounded by lush green fields and native Indian trees, creating an unbroken landscape of serenity. The natural environment provides the perfect backdrop for learning, reflection, and inner connection.
+Vrindavan is surrounded by lush green fields and native Indian trees, creating an unbroken landscape of serenity. Located coincidentally at Anatagiripalle (Anantagiri Hills), near sacred temples and the starting point of Muchukunda River, the natural environment provides the perfect backdrop for learning, reflection, work meetings, and inner connection.
 
-### Sky and Views
-
-The campus offers spectacular natural views throughout the day:
-
-- **Sunrise Views** - Watch the day begin from multiple vantage points
-- **Sunset Vistas** - End your day with peaceful evening colors  
-- **Clear Skies** - Perfect for stargazing and astronomical observations
-- **360° Landscape** - Unobstructed views of surrounding hills and fields
-
-### Air Quality
-
-The air at Vrindavan is notably clean and fresh:
-
-- **Pollution-free environment** - Away from urban smog and traffic
-- **Forest proximity** - Benefits from nearby Anantagiri Hills
-- **Native vegetation** - Over 100 species contributing to air purification
-- **No industrial activity** - Purely natural and agricultural surroundings
+### Key Features
+- **Spectacular views** - Sunrise, sunset, and 360° landscape vistas
+- **Clean air** - Pollution-free environment with over 100 native species
+- **Sacred location** - Near Anantagiri Padmanabha Swamy and Bugga Ramalingeshwara Swamy temples
+- **Vastu alignment** - North-east orientation following auspicious principles
 
 ## Silent Zone Policy
 
@@ -42,34 +30,16 @@ The entire campus operates as a **no-pollution, silent zone** to preserve the na
 - Assistance for those who need help walking
 
 ### Benefits of the Silent Zone
-
-**Environmental:**
-- Zero vehicular emissions within campus
-- Preserved natural soundscape
-- Reduced soil compaction from vehicles
-- Protection of small wildlife and insects
-
-**Experiential:**
-- Ability to hear natural sounds (birds, wind, leaves)
-- Enhanced focus and concentration
+- Zero vehicular emissions preserving air quality
+- Natural soundscape with birds, wind, and leaves
+- Enhanced focus for workshops and work meetings
 - Deeper sense of peace and tranquility
-- Better sleep quality
 
 ## Natural Soundscape
 
-Without the interference of mechanical noise, visitors can experience the rich natural audio environment:
-
-### Daytime Sounds
-- **Bird songs** - Various species throughout the day
-- **Rustling leaves** - Wind moving through the tree canopy
-- **Insect activity** - Natural buzz of a healthy ecosystem
-- **Water sounds** - From planned pond and natural drainage
-
-### Evening & Night Sounds
-- **Cricket chorus** - Natural evening symphony
-- **Owl calls** - Night birds in surrounding forests
-- **Wind patterns** - Changing air currents through trees
-- **Peaceful silence** - Deep quiet for reflection and rest
+Without mechanical noise interference, experience rich natural audio:
+- **Daytime** - Bird songs, rustling leaves, natural water sounds
+- **Evening** - Cricket chorus, owl calls, peaceful silence for reflection
 
 ## Seasonal Changes
 
@@ -93,35 +63,17 @@ Vrindavan's environment transforms beautifully through the seasons:
     - Fruit-bearing season for many trees
     - Natural cooling from vegetation
 
-## Wildlife and Ecosystem
+## Wildlife and Climate
 
-The preserved natural environment supports diverse wildlife:
+**Diverse Ecosystem:**
+- Resident and migratory birds providing natural habitat
+- Butterflies, beneficial insects, and small wildlife
+- Harmless species maintaining ecological balance
 
-### Birds
-- **Resident species** - Year-round inhabitants
-- **Migratory visitors** - Seasonal guests
-- **Variety of sizes** - From small songbirds to larger species
-- **Natural habitat** - Trees and plants provide food and nesting
-
-### Small Wildlife
-- **Butterflies** - Attracted by flowering plants
-- **Beneficial insects** - Supporting plant pollination
-- **Small mammals** - Occasional visitors from surrounding areas
-- **Reptiles** - Harmless species that maintain ecological balance
-
-## Climate Considerations
-
-### Temperature
-- **Moderate climate** - Cooler than urban Hyderabad
-- **Hill station effect** - Elevation provides natural cooling
-- **Tree cover** - Significant shade and temperature moderation
-- **Natural ventilation** - Open spaces allow air circulation
-
-### Humidity
-- **Balanced levels** - Not too dry or too humid
-- **Plant regulation** - Vegetation helps moderate humidity
-- **Seasonal variation** - Natural changes throughout the year
-- **Comfortable conditions** - Suitable for year-round activities
+**Comfortable Climate:**
+- Moderate temperatures cooler than urban Hyderabad
+- Natural cooling from elevation and tree cover
+- Balanced humidity levels suitable for year-round activities
 
 ---
 

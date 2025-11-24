@@ -8,7 +8,7 @@
 
 Amidst the rush and noise of modern life, Vrindavan offers a space of stillness — a place where people can pause, breathe, and rediscover what it means to learn and live meaningfully.
 
-Spread across **3.75 acres** in Anantagiri Palle village, about 70 kilometers from Hyderabad, Vrindavan is a collective effort of thirteen partners who came together with a shared vision:
+Spread across **3.75 acres** in Anantagiri Palle village, about 70 kilometers from Hyderabad, Vrindavan is coincidentally located at Anatagiripalle (Anantagiri Hills) — a sacred place near Anantagiri Padmanabha Swamy Temple and Bugga Ramalingeshwara Swamy Temple. Amidst hills, near the starting point of Muchukunda River (a major tributary of Krishna River, commonly known as Musi), this space chose us for a collective vision of people from different walks of life with a shared purpose.
 
 !!! quote "Our Vision"
     "To create a space that nurtures silence, focus, and learning — in any form that benefits humanity."
@@ -35,6 +35,8 @@ Spread across **3.75 acres** in Anantagiri Palle village, about 70 kilometers fr
     - Community and sharing
     - Conscious living
     - Silence and reflection
+    - Work meetings and brainstorming
+    - Knowledge sharing sessions
 
 ## Explore Vrindavan
 
@@ -69,7 +71,7 @@ Spread across **3.75 acres** in Anantagiri Palle village, about 70 kilometers fr
 ## Latest Updates
 
 !!! info "Current Status"
-    Vrindavan is actively hosting workshops and day visits. Solar power installation and gaushala (cow shelter) are planned for the near future.
+    Vrindavan is actively hosting workshops, day visits, work meetings, and knowledge sharing sessions. Solar power installation and gaushala (cow shelter) are planned for the near future. Coincidentally, the space's north-east alignment follows Vastu Shastra principles, known to be auspicious.
 
 ---
 

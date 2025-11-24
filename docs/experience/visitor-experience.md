@@ -2,67 +2,35 @@
 
 ## What to Expect
 
-Visitors to Vrindavan can expect a unique experience that combines learning, nature, and inner peace. This is not luxury in the conventional sense — but a deeper kind of comfort, one that comes from peace, simplicity, and connection.
+Visitors to Vrindavan experience a unique combination of learning, nature, and inner peace. This space offers deeper comfort through peace, simplicity, and meaningful connection — perfect for workshops, work meetings, and personal reflection.
 
 ## Daily Rhythms
 
 ### Morning Experience
-
-**Dawn and Sunrise:**
-- Wake naturally to birdsong instead of alarms
-- Watch the sunrise from multiple vantage points
-- Fresh, clean air and peaceful atmosphere
-- Optional morning meditation or yoga sessions
-
-**Quiet Mornings:**
-- Gentle start to the day without urban noise
-- Time for personal reflection and planning
-- Peaceful breakfast in natural surroundings
-- Opportunity for nature walks and observation
+- Wake naturally to birdsong in fresh, clean air
+- Sunrise views from multiple vantage points
+- Gentle start without urban noise
+- Optional meditation, yoga, or quiet planning time
 
 ### Daytime Activities
-
-**Learning and Engagement:**
-- Focused workshop sessions without distractions
-- Hands-on activities in beautiful settings
-- Collaborative learning with like-minded people
-- Access to botanical gardens and natural classrooms
-
-**Breaks and Reflection:**
-- Rest periods in the Zen Garden
-- Informal conversations under shade trees
-- Time to process and integrate learning
-- Freedom to explore the campus at your own pace
+- Focused workshops and work meetings without distractions
+- Hands-on activities in natural settings
+- Collaborative learning and brainstorming sessions
+- Rest periods in Zen Garden and botanical spaces
 
 ### Evening Atmosphere
-
-**Sunset Views:**
 - Soft sunsets over green fields and hills
-- Natural transition from day to evening
-- Perfect time for reflection and gratitude
-- Photography opportunities in golden light
-
-**Evening Activities:**
 - Cultural performances in the amphitheatre
-- Group discussions and sharing circles
-- Stargazing and astronomical observations
-- Quiet time for journaling and contemplation
+- Group discussions and stargazing
+- Quiet time for reflection and contemplation
 
 ## Accommodation Experience
 
 ### Simple Comfort
-
-**Clean and Peaceful:**
-- Simple, comfortable bedrooms
-- Natural materials and earth-friendly construction
+- Clean, comfortable bedrooms with natural materials
 - Quiet environment for restful sleep
-- Basic amenities focused on essentials
-
-**Community Living:**
-- Shared spaces that encourage interaction
-- Opportunities to connect with fellow visitors
-- Collaborative meal preparation and sharing
-- Respect for personal space and privacy needs
+- Shared spaces encouraging meaningful interaction
+- Collaborative meal preparation and community dining
 
 ### What's Provided
 
@@ -81,18 +49,10 @@ Visitors to Vrindavan can expect a unique experience that combines learning, nat
 ## Food and Meals
 
 ### Healthy, Local Cuisine
-
-**Fresh and Organic:**
-- Locally sourced vegetables and ingredients
-- Organic produce from Vrindavan's own gardens
-- Simple, nutritious meal preparation
-- Emphasis on seasonal and traditional foods
-
-**Community Dining:**
-- Shared meals that build connections
-- Opportunity to learn about healthy cooking
-- Collaborative meal preparation when possible
-- Mindful eating practices and gratitude
+- Locally sourced, organic vegetables and ingredients
+- Simple, nutritious meals emphasizing seasonal foods
+- Shared community dining building connections
+- Mindful eating practices and collaborative preparation
 
 ### Dietary Considerations
 
@@ -105,18 +65,10 @@ Visitors to Vrindavan can expect a unique experience that combines learning, nat
 ## Children's Experience
 
 ### Screen-Free Environment
-
-**Natural Play:**
-- Children play freely without gadgets or screens
-- Large open spaces for running and exploration
-- Safe environment with natural boundaries
-- Opportunity to connect with nature directly
-
-**Learning Through Play:**
+- Children play freely without gadgets in large open spaces
 - Discovery of plants, insects, and wildlife
-- Traditional games and outdoor activities
-- Creative play with natural materials
-- Social interaction with other children
+- Traditional games and creative play with natural materials
+- Safe environment encouraging direct nature connection
 
 ### Educational Opportunities
 
@@ -135,18 +87,10 @@ Visitors to Vrindavan can expect a unique experience that combines learning, nat
 ## Adult Learning Experience
 
 ### Focused Learning Environment
-
-**Distraction-Free:**
-- No urban noise or commercial interruptions
-- Natural setting that enhances concentration
-- Supportive community of fellow learners
-- Time and space for deep engagement
-
-**Holistic Approach:**
-- Integration of mind, body, and spirit
-- Connection between learning and nature
-- Practical application of knowledge
-- Personal growth and development
+- Distraction-free setting enhancing concentration
+- Natural environment supporting deep engagement
+- Holistic approach integrating mind, body, and spirit
+- Practical application and personal growth opportunities
 
 ### Meaningful Conversations
 
@@ -165,18 +109,10 @@ Visitors to Vrindavan can expect a unique experience that combines learning, nat
 ## Wellness and Relaxation
 
 ### Natural Stress Relief
-
-**Peaceful Environment:**
-- Escape from urban stress and pressure
-- Natural sounds instead of mechanical noise
-- Clean air and beautiful surroundings
-- Time to slow down and breathe
-
-**Mindfulness Opportunities:**
-- Walking meditation in the Zen Garden
+- Escape from urban stress with natural sounds and clean air
+- Walking meditation in Zen Garden
 - Quiet sitting under ancient trees
-- Observation of natural beauty and changes
-- Present-moment awareness practices
+- Present-moment awareness and mindfulness practices
 
 ### Physical Well-being
 

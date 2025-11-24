@@ -73,9 +73,10 @@ Every aspect of Vrindavan is designed to facilitate learning and growth:
 Rather than a commercial business, Vrindavan operates as a **collective effort**:
 
 - **Partner-driven** - Owned and operated by committed individuals
-- **Mission-focused** - Profit serves the purpose, not vice versa
-- **Sustainable fees** - Just enough to maintain and improve the space
-- **Open access** - Available to anyone aligned with our values
+- **Mission-focused** - Purpose over profit approach
+- **Universal values** - Welcoming all backgrounds with open, inclusive philosophy
+- **Sustainable approach** - Just enough to maintain and improve the space
+- **Open access** - Available to anyone aligned with learning and growth
 
 ## The Vrindavan Experience
 
@@ -121,7 +122,8 @@ This approach creates something unique — a space where:
     - **Children play freely** without gadgets or screens
     - **Adults rediscover** focus and creativity  
     - **Learning happens naturally** through experience and reflection
-    - **Community forms organically** around shared values
+    - **Work meetings and brainstorming** flourish in peaceful environment
+    - **Community forms organically** around shared values of growth
     - **Nature and humans coexist** in harmony
 
 ---

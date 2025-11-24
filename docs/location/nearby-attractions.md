@@ -1,16 +1,16 @@
 # Nearby Attractions
 
-Vrindavan is located near Anantagiri Hills, one of Telangana's most beautiful forest regions. The surroundings include numerous natural, spiritual, and cultural attractions that complement the spirit of Vrindavan — natural, spiritual, and timeless.
+Vrindavan is coincidentally located at Anatagiripalle (Anantagiri Hills), one of Telangana's most beautiful forest regions. This sacred place lies near the starting point of Muchukunda River, a major tributary of Krishna River (commonly known as Musi). The surroundings include numerous natural, spiritual, and cultural attractions that complement the spirit of Vrindavan.
 
 ## Sacred Sites
 
-### Anantagiri Temple
+### Anantagiri Padmanabha Swamy Temple
 
 **About the Temple:**
 - Dedicated to Lord Anantha Padmanabha (Vishnu)
 - Ancient temple with rich spiritual significance
 - Beautiful architecture nestled in hills
-- Peaceful atmosphere perfect for meditation
+- Sacred site that adds to the area's spiritual energy
 
 **Visiting Information:**
 - **Distance from Vrindavan:** ~5 kilometers
@@ -24,13 +24,13 @@ Vrindavan is located near Anantagiri Hills, one of Telangana's most beautiful fo
 - Popular pilgrimage destination
 - Offers panoramic views of surrounding hills
 
-### Bugga Ramalingeshwara Temple
+### Bugga Ramalingeshwara Swamy Temple
 
 **Temple Features:**
 - Ancient Shiva temple with historical importance
 - Natural spring within the temple complex
 - Unique architectural elements
-- Serene forest setting
+- Serene forest setting that enhances the sacred atmosphere
 
 **Natural Spring:**
 - Fresh, clean water source
@@ -87,6 +87,20 @@ Vrindavan is located near Anantagiri Hills, one of Telangana's most beautiful fo
 - **Facilities:** Basic paths, some seating areas
 
 ## Water Bodies
+
+### Muchukunda River
+
+**River Significance:**
+- Major tributary of Krishna River (commonly known as Musi)
+- Starting point near Vrindavan location
+- Natural water source flowing through the hills
+- Adds to the sacred geography of the area
+
+**Natural Features:**
+- Fresh mountain water flow
+- Seasonal variations in water levels
+- Natural pools and rock formations
+- Wildlife habitat along the banks
 
 ### Kotepally Reservoir and Dam
 

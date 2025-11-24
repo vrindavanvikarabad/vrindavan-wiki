@@ -7,12 +7,12 @@ Vrindavan stands for simplicity, learning, sustainability, and harmony with natu
 ## Core Values
 
 ### :material-school: Learning without Boundaries
-Whether it's science, art, farming, or meditation — anything that deepens understanding and uplifts the human spirit is welcome.
+Whether it's science, art, farming, meditation, or professional collaboration — anything that deepens understanding and uplifts the human spirit is welcome.
 
-- **Interdisciplinary Approach** - No artificial barriers between subjects
-- **Practical Learning** - Hands-on experiences and real-world applications  
+- **Interdisciplinary Approach** - No barriers between subjects or professions
+- **Practical Learning** - Hands-on experiences and real applications  
+- **Professional Growth** - Work meetings, brainstorming, and knowledge sharing
 - **Lifelong Learning** - For all ages and backgrounds
-- **Knowledge Sharing** - Learning from each other's experiences
 
 ### :material-leaf: Respect for Nature
 Every activity at Vrindavan is designed to be in balance with the environment — minimizing waste, respecting silence, and preserving natural habitats.
@@ -70,8 +70,9 @@ These values aren't just ideals — they're lived experiences at Vrindavan:
 === "Workshop Integration"
     - Every session begins with a moment of silence
     - Activities incorporate environmental awareness
-    - Knowledge sharing is encouraged over competition
-    - Practical application of learning is emphasized
+    - Knowledge sharing encouraged in all formats
+    - Work meetings and brainstorming sessions supported
+    - Practical application of learning emphasized
 
 === "Community Building"
     - Shared meals and conversations
