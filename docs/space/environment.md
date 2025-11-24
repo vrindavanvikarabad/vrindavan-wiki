@@ -2,7 +2,7 @@
 
 ## Natural Beauty
 
-Vrindavan is surrounded by lush green fields and native Indian trees, creating an unbroken landscape of serenity. Located coincidentally at Anatagiripalle (Anantagiri Hills), near sacred temples and the starting point of Muchukunda River, the natural environment provides the perfect backdrop for learning, reflection, work meetings, and inner connection.
+Vrindavan is surrounded by lush green fields and native Indian trees, creating an unbroken landscape of serenity. Located coincidentally at Anantagiri Hills, near sacred temples and the starting point of Muchukunda River, the natural environment provides the perfect backdrop for learning, reflection, work meetings, and inner connection.
 
 ### Key Features
 - **Spectacular views** - Sunrise, sunset, and 360° landscape vistas

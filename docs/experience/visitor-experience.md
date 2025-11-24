@@ -189,4 +189,4 @@ Visitors to Vrindavan experience a unique combination of learning, nature, and i
 
 ---
 
-*Plan your visit: [Getting There →](../location/getting-there.md)*
+*Explore the area: [Nearby Attractions →](../location/nearby-attractions.md)*

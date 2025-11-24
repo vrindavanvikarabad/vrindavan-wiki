@@ -4,7 +4,7 @@
 
 Amidst the rush and noise of modern life, Vrindavan offers a space of stillness — a place where people can pause, breathe, and rediscover what it means to learn and live meaningfully.
 
-Spread across **3.75 acres** in Anantagiri Palle village, about 70 kilometers from Hyderabad in Vikarabad district, Vrindavan is coincidentally located at Anatagiripalle (Anantagiri Hills). This sacred place lies near Anantagiri Padmanabha Swamy Temple and Bugga Ramalingeshwara Swamy Temple, amidst hills, near the starting point of Muchukunda River (a major tributary of Krishna River, commonly known as Musi).
+Spread across **3.5 acres** in Anantagiri Palle village, about 70 kilometers from Hyderabad in Vikarabad district, Vrindavan is coincidentally located at Anantagiri Hills. This sacred place lies near Anantagiri Padmanabha Swamy Temple and Bugga Ramalingeshwara Swamy Temple, amidst hills, near the starting point of Muchukunda River (a major tributary of Krishna River, commonly known as Musi).
 
 ## A Collective Vision
 
@@ -23,7 +23,7 @@ Coincidentally, the space's north-east alignment follows Vastu Shastra principle
 
 **Address:** Anantagiri Palle village, Vikarabad district, Telangana  
 **Distance:** ~70 km from Hyderabad  
-**Area:** 3.75 acres
+**Area:** 3.5 acres
 
 ### Sacred Environment
 - Near [Anantagiri Padmanabha Swamy Temple](../location/nearby-attractions.md#anantagiri-temple)
@@ -32,6 +32,10 @@ Coincidentally, the space's north-east alignment follows Vastu Shastra principle
 - Amidst Anantagiri Hills with natural aura of peace
 
 The surrounding hills, forests, and sacred sites create an ideal environment for learning, reflection, and meaningful work.
+
+## Collaborate with Vrindavan
+
+If you wish to be part of Vrindavan, the most meaningful way to collaborate is by spreading the word about this unique space. Share your experiences, tell others about Vrindavan's vision and values, and help like-minded individuals discover this place of learning and growth. You can also contribute by conducting workshops, sharing your expertise, participating in activities, or simply visiting and experiencing the peaceful environment. Every form of authentic participation helps nurture this collective effort dedicated to silence, learning, and inner connection.
 
 ---
 

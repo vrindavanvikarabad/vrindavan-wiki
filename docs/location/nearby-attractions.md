@@ -1,6 +1,6 @@
 # Nearby Attractions
 
-Vrindavan is coincidentally located at Anatagiripalle (Anantagiri Hills), one of Telangana's most beautiful forest regions. This sacred place lies near the starting point of Muchukunda River, a major tributary of Krishna River (commonly known as Musi). The surroundings include numerous natural, spiritual, and cultural attractions that complement the spirit of Vrindavan.
+Vrindavan is coincidentally located at Anantagiri Hills, one of Telangana's most beautiful forest regions. This sacred place lies near the starting point of Muchukunda River, a major tributary of Krishna River (commonly known as Musi). The surroundings include numerous natural, spiritual, and cultural attractions that complement the spirit of Vrindavan.
 
 ## Sacred Sites
 
