@@ -42,19 +42,19 @@ Spread across **3.5 acres** in Anantagiri Palle village, about 70 kilometers fro
 
 <div class="grid cards" markdown>
 
--   :material-leaf: **[About Vrindavan](about/introduction.md)**
+-   :material-leaf: **[About Vrindavan](about.md)**
 
     ---
 
     Learn about our story, vision, and what makes us unique
 
--   :material-home-group: **[The Space](space/environment.md)**
+-   :material-home-group: **[The Space](space.md)**
 
     ---
 
     Discover our facilities, gardens, and natural environment
 
--   :material-school: **[Experience](experience/activities.md)**
+-   :material-school: **[Experience](experience.md)**
 
     ---
 

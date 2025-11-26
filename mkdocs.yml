@@ -47,17 +47,8 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - About:
-    - Introduction: about/introduction.md
-    - Vision & Values: about/vision-values.md
-    - What Makes Us Different: about/difference.md
-  - The Space:
-    - Environment & Setting: space/environment.md
-    - Built Spaces: space/built-spaces.md
-    - Botanical Collection: space/botanical-collection.md
-  - Experience:
-    - Activities & Learning: experience/activities.md
-    - How It Works: experience/how-it-works.md
-    - Visitor Experience: experience/visitor-experience.md
+  - About: about.md
+  - The Space: space.md
+  - Experience: experience.md
   - Location:
     - Nearby Attractions: location/nearby-attractions.md
