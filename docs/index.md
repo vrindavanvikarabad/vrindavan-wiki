@@ -8,7 +8,7 @@
 
 Amidst the rush and noise of modern life, Vrindavan offers a space of stillness — a place where people can pause, breathe, and rediscover what it means to learn and live meaningfully.
 
-Spread across **3.5 acres** in Anantagiri Palle village, about 70 kilometers from Hyderabad, Vrindavan is coincidentally located at Anantagiri Hills — a sacred place near Anantagiri Padmanabha Swamy Temple and Bugga Ramalingeshwara Swamy Temple. Amidst hills, near the starting point of Muchukunda River (a major tributary of Krishna River, commonly known as Musi), this space chose us for a collective vision of people from different walks of life with a shared purpose.
+Spread across **3.5 acres** in Anantagiri Palle village, about 70 kilometers from Hyderabad, Vrindavan is located at Anantagiri Hills — a sacred place near Anantagiri Padmanabha Swamy Temple and Bugga Ramalingeshwara Swamy Temple. Nestled amidst the hills and close to the origin of the Muchukunda River (a major tributary of the Krishna River, commonly known as the Musi), Vrindavan is a collective effort shaped by people from diverse walks of life who share a common vision. In many ways, the place itself drew us in, as if inviting this community to take root here. Today, Vrindavan hosts workshops, day visits, work meetings, and knowledge-sharing sessions, with modest plans for solar power and a small gaushala in the future. Coincidentally, the land’s natural north-east orientation follows Vastu Shastra principles, adding to its sense of harmony and purpose.
 
 !!! quote "Our Vision"
     "To create a space that nurtures silence, focus, and learning — in any form that benefits humanity."
@@ -16,7 +16,7 @@ Spread across **3.5 acres** in Anantagiri Palle village, about 70 kilometers fro
 ## Quick Overview
 
 === "The Space"
-    - 3.75 acres of natural beauty
+    - 3.5 acres of natural beauty
     - Eco-friendly mud house construction
     - Open amphitheatre for performances
     - Zen garden for meditation
@@ -68,11 +68,6 @@ Spread across **3.5 acres** in Anantagiri Palle village, about 70 kilometers fro
 
 </div>
 
-## Latest Updates
-
-!!! info "Current Status"
-    Vrindavan is actively hosting workshops, day visits, work meetings, and knowledge sharing sessions. Solar power installation and gaushala (cow shelter) are planned for the near future. Coincidentally, the space's north-east alignment follows Vastu Shastra principles, known to be auspicious.
-
 ---
 
-*"How many days have gone by when you looked up at the night sky, saw the stars and planets, and felt the oneness with the entire universe? With Vrindavan — that is possible again."*
+*"Here, under clear night skies and surrounded by silence, one can rediscover the calm and wonder that modern life often blurs — those rare moments when you can look at the stars and feel part of something vast and meaningful."*
