@@ -187,4 +187,4 @@ Visitors experience a unique combination of learning, nature, and inner peace �
 
 ---
 
-*Explore the area: [Nearby Attractions →](../location/nearby-attractions.md)*
+*Explore the area: [Nearby Attractions →](location/nearby-attractions.md)*
