@@ -1,8 +1,10 @@
-import type { ReactNode } from "react";
+import { useEffect, useState, type ReactNode } from "react";
 
 type Props = {
   image: string;
   imageAlt?: string;
+  /** Optional extra images to cross-fade through, after the first. */
+  images?: string[];
   eyebrow?: string;
   title: ReactNode;
   subtitle?: ReactNode;
@@ -14,6 +16,7 @@ type Props = {
 export default function Hero({
   image,
   imageAlt = "",
+  images,
   eyebrow,
   title,
   subtitle,
@@ -25,15 +28,34 @@ export default function Hero({
   const alignClass =
     align === "center" ? "items-center text-center" : "items-end text-left";
 
+  // Full set of background images (the primary one first).
+  const slides = images && images.length > 0 ? [image, ...images] : [image];
+  const [active, setActive] = useState(0);
+
+  useEffect(() => {
+    if (slides.length < 2) return;
+    const id = setInterval(() => {
+      setActive((i) => (i + 1) % slides.length);
+    }, 6000);
+    return () => clearInterval(id);
+    // slides.length is stable for a given page render
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [slides.length]);
+
   return (
     <section className={`relative w-full ${heightClass} flex ${alignClass} overflow-hidden`}>
-      <img
-        src={image}
-        alt={imageAlt}
-        className="absolute inset-0 h-full w-full object-cover"
-        loading="eager"
-        fetchPriority="high"
-      />
+      {slides.map((src, i) => (
+        <img
+          key={src}
+          src={src}
+          alt={i === 0 ? imageAlt : ""}
+          className={`absolute inset-0 h-full w-full object-cover transition-opacity duration-1000 ${
+            i === active ? "opacity-100" : "opacity-0"
+          }`}
+          loading={i === 0 ? "eager" : "lazy"}
+          fetchPriority={i === 0 ? "high" : "low"}
+        />
+      ))}
       <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/30 to-black/70" />
       <div
         className={`relative mx-auto w-full max-w-5xl px-6 py-24 sm:px-10 ${

@@ -8,7 +8,7 @@ export default function Location() {
     <>
       <Hero
         image={img}
-        imageAlt="Anantha Padmanabha Swamy temple in Vikarabad"
+        imageAlt="Anantha Padmanabhaswamy temple at Anantagiri Hills"
         eyebrow="Around Anantagiri"
         title="Location"
         subtitle="Temples, forests, viewpoints, and the source of the Muchukunda — most within an hour's reach."

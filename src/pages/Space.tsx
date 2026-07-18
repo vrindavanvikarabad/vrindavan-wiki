@@ -8,7 +8,7 @@ export default function Space() {
     <>
       <Hero
         image={img}
-        imageAlt="Banyan tree in the forest near the Padmanabha temple, Vikarabad"
+        imageAlt="Banyan tree in the forest near the Padmanabhaswamy temple, Anantagiri"
         eyebrow="The land and the buildings"
         title="The space"
         subtitle="Three and a half acres of native forest, mud architecture, and open ground."

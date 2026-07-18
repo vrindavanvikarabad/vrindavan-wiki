@@ -9,6 +9,10 @@ dist-ssr
 *.local
 *.tsbuildinfo
 
+# Raw photo imports (only the optimized versions in src/assets belong in git)
+*.zip
+_photo_staging/
+
 # Editor / OS
 .vscode/*
 !.vscode/extensions.json

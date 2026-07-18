@@ -8,7 +8,7 @@ export default function Header() {
   const { pathname } = useLocation();
 
   // Pages that have a full-bleed hero — header overlays with transparency
-  const overlayRoutes = ["/", "/about", "/space", "/experience", "/location"];
+  const overlayRoutes = ["/", "/about", "/space", "/experience", "/location", "/gallery", "/team"];
   const hasHero = overlayRoutes.includes(pathname);
 
   useEffect(() => {

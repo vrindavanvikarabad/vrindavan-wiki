@@ -9,4 +9,6 @@ export const navItems: NavItem[] = [
   { to: "/space", label: "The Space" },
   { to: "/experience", label: "Experience" },
   { to: "/location", label: "Location" },
+  { to: "/gallery", label: "Gallery" },
+  { to: "/team", label: "Team" },
 ];

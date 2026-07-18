@@ -49,14 +49,6 @@ export default function Footer() {
               <br />
               ~70 km from Hyderabad
             </address>
-            <a
-              href="https://github.com/vrindavanvikarabad/vrindavan-wiki"
-              className="mt-6 inline-block text-sm text-cream-100/80 underline-offset-4 hover:text-cream-50 hover:underline"
-              target="_blank"
-              rel="noreferrer"
-            >
-              View on GitHub →
-            </a>
           </div>
         </div>
 
