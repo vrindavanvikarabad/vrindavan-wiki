@@ -8,7 +8,8 @@ export default defineConfig({
   // The site is hosted at https://<user>.github.io/vrindavan-wiki/, so all
   // built asset URLs need that prefix. If we ever move to a custom domain
   // served from the repo root, change this back to "/".
-  base: "/vrindavan-wiki/",
+  // base: "/vrindavan-wiki/",
+  base: "/",
   plugins: [
     { enforce: "pre", ...mdx({ providerImportSource: "@mdx-js/react" }) },
     react(),
