@@ -15,7 +15,7 @@ const mdxComponents = {
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
-    <BrowserRouter basename="/vrindavan-wiki">
+    <BrowserRouter basename="/">
       <MDXProvider components={mdxComponents}>
         <App />
       </MDXProvider>

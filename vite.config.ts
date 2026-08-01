@@ -5,10 +5,11 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://vite.dev/config/
 export default defineConfig({
-  // The site is hosted at https://<user>.github.io/vrindavan-wiki/, so all
-  // built asset URLs need that prefix. If we ever move to a custom domain
-  // served from the repo root, change this back to "/".
-  // base: "/vrindavan-wiki/",
+  // `base` is the URL prefix for all built asset paths, and it must match the
+  // router `basename` in src/main.tsx.
+  //   - Custom domain served from the root (thevrindavan.org): use "/" (current).
+  //   - GitHub Pages project site (<user>.github.io/vrindavan-wiki/): use
+  //     "/vrindavan-wiki/" and set the router basename to "/vrindavan-wiki".
   base: "/",
   plugins: [
     { enforce: "pre", ...mdx({ providerImportSource: "@mdx-js/react" }) },
