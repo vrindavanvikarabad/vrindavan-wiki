@@ -1,13 +1,15 @@
 import { Link } from "react-router-dom";
-import banner from "../assets/vrindavan-banner.jpeg";
-import hills from "../assets/ananthagiri-hills.jpg";
-import banyan from "../assets/banyan-tree-ananthagiri.jpg";
-import monsoon from "../assets/ananthagiri-monsoon.jpg";
-import trekking from "../assets/ananthagiri-trekking.jpg";
-import temple from "../assets/padmanabha-temple.jpg";
+import banner from "../assets/gallery/bird-over-the-plains.jpg";
 import mattilluGarden from "../assets/gallery/mattillu-garden.jpg";
-import zenBuddha from "../assets/gallery/zen-buddha.jpg";
+import mattilluTerraceSunrise from "../assets/gallery/mattillu-terrace-sunrise.jpg";
+import mattilluAtNight from "../assets/gallery/mattillu-at-night.jpg";
+import sunriseOverPlains from "../assets/gallery/sunrise-over-the-plains.jpg";
+import sunsetOverGrounds from "../assets/gallery/sunset-over-the-grounds.jpg";
 import amphiSeating from "../assets/gallery/amphitheatre-seating.jpg";
+import walkingTrack from "../assets/gallery/walking-track.jpg";
+import badamTree from "../assets/gallery/badam-tree-canopy.jpg";
+import padmanabhaGopuram from "../assets/gallery/anantha-padmanabha-gopuram.jpg";
+import buggaTemple from "../assets/gallery/bugga-ramalingeshwara-temple.jpg";
 import Hero from "../components/Hero";
 import Stats from "../components/Stats";
 import SectionTitle from "../components/SectionTitle";
@@ -19,9 +21,17 @@ export default function Home() {
   return (
     <>
       <Hero
-        image={banner}
-        imageAlt="Sacred tree at Project Vrindavan with Anantagiri Hills behind"
-        images={[mattilluGarden, zenBuddha, amphiSeating, hills]}
+        // Each slide keeps its own subject in frame once the hero narrows on a
+        // phone: the bird sits far left, the two suns off-centre, the Mattillu
+        // to the right.
+        image={{ src: banner, position: "object-[10%_center]" }}
+        imageAlt="A bird in flight over the plains below the Anantagiri hills"
+        images={[
+          { src: sunriseOverPlains, position: "object-center" },
+          { src: mattilluGarden, position: "object-[62%_center]" },
+          { src: sunsetOverGrounds, position: "object-[30%_center]" },
+        ]}
+        scrim="soft"
         eyebrow="Anantagiri Hills · Telangana"
         title={<>A place for silence,<br />learning, and focus.</>}
         subtitle="Three and a half acres at the foothills of Anantagiri, where the Muchukunda is said to take its sacred birth — about seventy kilometres from Hyderabad."
@@ -91,8 +101,8 @@ export default function Home() {
             </div>
             <div className="order-1 md:order-2">
               <img
-                src={hills}
-                alt="View from Ananthagiri Hills across the surrounding plains"
+                src={padmanabhaGopuram}
+                alt="The golden gopuram of the Anantha Padmanabhaswamy temple at Anantagiri"
                 loading="lazy"
                 className="aspect-[4/5] w-full rounded-sm object-cover shadow-sm"
               />
@@ -150,8 +160,8 @@ export default function Home() {
           <div className="grid items-center gap-12 md:grid-cols-2 md:gap-20">
             <div>
               <img
-                src={banyan}
-                alt="Large banyan tree in the forest near the Padmanabha temple"
+                src={badamTree}
+                alt="Badam tree branches turning colour against a clear sky at Vrindavan"
                 loading="lazy"
                 className="aspect-[4/5] w-full rounded-sm object-cover shadow-sm"
               />
@@ -254,32 +264,32 @@ export default function Home() {
               eyebrow="The story"
               title="About Vrindavan"
               description="The origin of the place, the people behind it, and the values it runs on."
-              image={monsoon}
-              imageAlt="Anantagiri Hills on a misty monsoon day"
+              image={mattilluTerraceSunrise}
+              imageAlt="Sunrise from the terrace of the Mattillu"
             />
             <FeatureCard
               to="/space"
               eyebrow="The land"
               title="The space"
               description="Mattillu, amphitheatre, residences, zen and tropical gardens, pond, and walking track."
-              image={banyan}
-              imageAlt="Banyan tree near the Padmanabha temple"
+              image={walkingTrack}
+              imageAlt="The walking track at Vrindavan"
             />
             <FeatureCard
               to="/experience"
               eyebrow="What you can do"
               title="Experience"
               description="Workshops, retreats, team offsites — and one, two, and three-day itineraries to plan around."
-              image={trekking}
-              imageAlt="Forest trekking trail in Anantagiri"
+              image={amphiSeating}
+              imageAlt="Tiered stone seating in the open amphitheatre at Vrindavan"
             />
             <FeatureCard
               to="/location"
               eyebrow="Around us"
               title="Location"
               description="Temples, forest trails, viewpoints, and the source of the Muchukunda river."
-              image={temple}
-              imageAlt="Anantha Padmanabha Swamy temple at Anantagiri"
+              image={buggaTemple}
+              imageAlt="The Bugga Ramalingeshwara Swamy temple near Vrindavan"
             />
           </div>
         </div>
@@ -288,12 +298,12 @@ export default function Home() {
       {/* Closing CTA */}
       <section className="relative overflow-hidden">
         <img
-          src={monsoon}
+          src={mattilluAtNight}
           alt=""
           className="absolute inset-0 h-full w-full object-cover"
           loading="lazy"
         />
-        <div className="absolute inset-0 bg-forest-900/85" />
+        <div className="absolute inset-0 bg-forest-900/80" />
         <div className="relative mx-auto max-w-4xl px-6 py-24 text-center sm:px-10 sm:py-32">
           <p className="text-xs font-medium uppercase tracking-[0.3em] text-clay-400">
             Be part of it

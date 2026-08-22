@@ -1,12 +1,24 @@
 // Single source of truth for every photo used across the site's carousels
 // and gallery. Import from here rather than importing image files directly
 // in pages, so photos are managed in one place.
+//
+// Every photograph here is the project's own.
+//
+// Ordering note: a few frames are near-duplicates of each other (the two
+// night shots of the Mattillu, the two sunrises over the plains, the two
+// fruit close-ups, the two views of the golden gopuram). Within a category
+// they are deliberately spaced apart so a slider never shows two of them
+// back to back.
 
 import mattilluFront from "./assets/gallery/mattillu-front.jpg";
+import mattilluNameplate from "./assets/gallery/mattillu-nameplate.jpg";
+import mattilluApproach from "./assets/gallery/mattillu-approach.jpg";
+import mattilluTerraceSunrise from "./assets/gallery/mattillu-terrace-sunrise.jpg";
+import mattilluAtNight from "./assets/gallery/mattillu-at-night.jpg";
 import mattilluGarden from "./assets/gallery/mattillu-garden.jpg";
+import mattilluMoonlit from "./assets/gallery/mattillu-moonlit.jpg";
 import mattilluSide from "./assets/gallery/mattillu-side.jpg";
 import mattilluEvening from "./assets/gallery/mattillu-evening.jpg";
-import mattilluApproach from "./assets/gallery/mattillu-approach.jpg";
 import amphiSeating from "./assets/gallery/amphitheatre-seating.jpg";
 import amphiWall from "./assets/gallery/amphitheatre-wall.jpg";
 import amphiWide from "./assets/gallery/amphitheatre-wide.jpg";
@@ -20,12 +32,24 @@ import playSwings from "./assets/gallery/play-swings.jpg";
 import playSeesaw from "./assets/gallery/play-seesaw.jpg";
 import stoneMonolith from "./assets/gallery/stone-monolith.jpg";
 import pavedGarden from "./assets/gallery/paved-garden.jpg";
+import walkingTrack from "./assets/gallery/walking-track.jpg";
 import pavedCircle from "./assets/gallery/paved-circle.jpg";
-import floweringFeature from "./assets/gallery/flowering-feature.jpg";
 import steppingPath from "./assets/gallery/stepping-path.jpg";
-import fruit1 from "./assets/gallery/fruit-1.jpg";
-import fruit2 from "./assets/gallery/fruit-2.jpg";
+import floweringFeature from "./assets/gallery/flowering-feature.jpg";
 import plantPride from "./assets/gallery/plant-pride.jpg";
+import badamTree from "./assets/gallery/badam-tree-canopy.jpg";
+import fruit1 from "./assets/gallery/fruit-1.jpg";
+import yellowBloom from "./assets/gallery/yellow-bloom.jpg";
+import fruit2 from "./assets/gallery/fruit-2.jpg";
+import sunriseOverPlains from "./assets/gallery/sunrise-over-the-plains.jpg";
+import sunsetOverGrounds from "./assets/gallery/sunset-over-the-grounds.jpg";
+import moonlitClouds from "./assets/gallery/moonlit-clouds.jpg";
+import sunriseRedSun from "./assets/gallery/sunrise-red-sun.jpg";
+import dawnDew from "./assets/gallery/dawn-dew.jpg";
+import landEveningSun from "./assets/gallery/land-evening-sun.jpg";
+import padmanabhaShrines from "./assets/gallery/anantha-padmanabha-shrines.jpg";
+import buggaTemple from "./assets/gallery/bugga-ramalingeshwara-temple.jpg";
+import padmanabhaGopuram from "./assets/gallery/anantha-padmanabha-gopuram.jpg";
 
 export type GalleryCategory =
   | "mattillu"
@@ -36,7 +60,9 @@ export type GalleryCategory =
   | "play"
   | "stone"
   | "garden"
-  | "plants";
+  | "plants"
+  | "sky"
+  | "temples";
 
 export type GalleryImage = {
   src: string;
@@ -54,9 +80,39 @@ export const galleryImages: GalleryImage[] = [
     category: "mattillu",
   },
   {
+    src: mattilluNameplate,
+    alt: "The Mattillu nameplate beside the front door",
+    caption: "మట్టిల్లు — the house of mud, named on the wall beside its door",
+    category: "mattillu",
+  },
+  {
+    src: mattilluApproach,
+    alt: "Approaching the Mattillu",
+    caption: "Approaching the Mattillu through the grounds",
+    category: "mattillu",
+  },
+  {
+    src: mattilluTerraceSunrise,
+    alt: "Sunrise seen from the Mattillu terrace",
+    caption: "Sunrise from the Mattillu terrace, over the orchard",
+    category: "mattillu",
+  },
+  {
+    src: mattilluAtNight,
+    alt: "The Mattillu lit up at night",
+    caption: "The Mattillu after dark, under a clouded night sky",
+    category: "mattillu",
+  },
+  {
     src: mattilluGarden,
     alt: "The Mattillu seen across the garden",
     caption: "The Mattillu, with its terracotta jali brickwork, across the garden",
+    category: "mattillu",
+  },
+  {
+    src: mattilluMoonlit,
+    alt: "The Mattillu under a full moon",
+    caption: "A full moon over the Mattillu — the terrace is a favourite spot for stargazing",
     category: "mattillu",
   },
   {
@@ -69,12 +125,6 @@ export const galleryImages: GalleryImage[] = [
     src: mattilluEvening,
     alt: "The Mattillu under an evening sky",
     caption: "The Mattillu under a monsoon sky",
-    category: "mattillu",
-  },
-  {
-    src: mattilluApproach,
-    alt: "Approaching the Mattillu",
-    caption: "Approaching the Mattillu through the grounds",
     category: "mattillu",
   },
 
@@ -170,21 +220,27 @@ export const galleryImages: GalleryImage[] = [
     category: "garden",
   },
   {
+    src: walkingTrack,
+    alt: "Two people walking the track at Vrindavan",
+    caption: "The walking track — long enough for a conversation, short enough for anyone",
+    category: "garden",
+  },
+  {
     src: pavedCircle,
     alt: "Circular paved feature",
     caption: "A circular gathering spot among the greens",
     category: "garden",
   },
   {
-    src: floweringFeature,
-    alt: "Flowering garden feature",
-    caption: "Flowering beds around a stone feature",
-    category: "garden",
-  },
-  {
     src: steppingPath,
     alt: "Stepping-stone path",
     caption: "A stepping-stone path through the gravel garden",
+    category: "garden",
+  },
+  {
+    src: floweringFeature,
+    alt: "Flowering garden feature",
+    caption: "Flowering beds around a stone feature",
     category: "garden",
   },
 
@@ -196,9 +252,21 @@ export const galleryImages: GalleryImage[] = [
     category: "plants",
   },
   {
+    src: badamTree,
+    alt: "Badam tree branches against a blue sky",
+    caption: "The badam tree turning colour against a clear winter sky",
+    category: "plants",
+  },
+  {
     src: fruit1,
     alt: "Fruit tree in the orchard",
     caption: "Fruit ripening in the orchard",
+    category: "plants",
+  },
+  {
+    src: yellowBloom,
+    alt: "Yellow flower in bloom beside the path",
+    caption: "A flowering shrub in bloom beside the walking track",
     category: "plants",
   },
   {
@@ -206,6 +274,66 @@ export const galleryImages: GalleryImage[] = [
     alt: "Fruit tree close-up",
     caption: "Young fruit on one of the orchard trees",
     category: "plants",
+  },
+
+  // Sky, sunrises, and the night
+  {
+    src: sunriseOverPlains,
+    alt: "Sunrise over the plains beyond Vrindavan",
+    caption: "Sunrise over the fields — the horizon is unobstructed in every direction",
+    category: "sky",
+  },
+  {
+    src: sunsetOverGrounds,
+    alt: "Sunset over the grounds at Vrindavan",
+    caption: "The sun going down over the young orchard",
+    category: "sky",
+  },
+  {
+    src: moonlitClouds,
+    alt: "Moonlight through clouds above the bamboo",
+    caption: "Moonlight breaking through cloud above the bamboo",
+    category: "sky",
+  },
+  {
+    src: sunriseRedSun,
+    alt: "A red sun rising through winter haze",
+    caption: "A red winter sun rising through the haze",
+    category: "sky",
+  },
+  {
+    src: dawnDew,
+    alt: "Dew on a car window at sunrise",
+    caption: "Dew at first light — winter mornings begin cold and clear",
+    category: "sky",
+  },
+  {
+    src: landEveningSun,
+    alt: "Evening sun over the land",
+    caption: "Evening light across the land",
+    category: "sky",
+  },
+
+  // Temples nearby
+  {
+    src: padmanabhaShrines,
+    alt: "Shrines at the Anantha Padmanabhaswamy temple",
+    caption:
+      "The Anantha Padmanabhaswamy temple — the swayambhu Vishnu shrine that gives Anantagiri its name",
+    category: "temples",
+  },
+  {
+    src: buggaTemple,
+    alt: "The Bugga Ramalingeshwara Swamy temple",
+    caption:
+      "The Bugga Ramalingeshwara Swamy temple — an ancient Shiva temple with a natural spring inside",
+    category: "temples",
+  },
+  {
+    src: padmanabhaGopuram,
+    alt: "The golden gopuram at the Anantha Padmanabhaswamy temple",
+    caption: "The golden gopuram at Anantha Padmanabhaswamy, a few kilometres from Vrindavan",
+    category: "temples",
   },
 ];
 

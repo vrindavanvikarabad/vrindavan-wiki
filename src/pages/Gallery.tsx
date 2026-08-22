@@ -16,7 +16,7 @@ export default function Gallery() {
       />
 
       <section className="mx-auto max-w-5xl px-6 py-16 sm:px-8 sm:py-20">
-        <Carousel slides={galleryImages} aspectClass="aspect-[16/10]" />
+        <Carousel slides={galleryImages} />
 
         <div className="mt-16 columns-1 gap-4 sm:columns-2 lg:columns-3 [&>*]:mb-4">
           {galleryImages.map((img) => (

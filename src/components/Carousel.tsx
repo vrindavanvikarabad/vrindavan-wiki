@@ -10,6 +10,10 @@ type Slide = {
 
 type Props = {
   slides: Slide[];
+  /**
+   * Height of the slide frame. Keep it taller on small screens: the frame is
+   * as wide as the viewport there, so a wide ratio leaves very little height.
+   */
   aspectClass?: string;
   autoplay?: boolean;
   showThumbs?: boolean;
@@ -17,7 +21,7 @@ type Props = {
 
 export default function Carousel({
   slides,
-  aspectClass = "aspect-[16/10]",
+  aspectClass = "aspect-[4/5] sm:aspect-[4/3] lg:aspect-[16/10]",
   autoplay = true,
   showThumbs = true,
 }: Props) {
@@ -65,12 +69,24 @@ export default function Carousel({
           <div className="flex">
             {slides.map((s) => (
               <div key={s.src + s.alt} className="min-w-0 flex-[0_0_100%]">
-                <figure className="relative">
+                <figure
+                  className={`relative overflow-hidden bg-cream-100 ${aspectClass}`}
+                >
+                  {/* Blurred fill behind the photo, so portrait and landscape
+                      frames both sit in the same slot without letterbox bars
+                      — and without cropping the photo itself. */}
+                  <img
+                    src={s.src}
+                    alt=""
+                    aria-hidden="true"
+                    loading="lazy"
+                    className="pointer-events-none absolute inset-0 h-full w-full scale-125 object-cover blur-2xl"
+                  />
                   <img
                     src={s.src}
                     alt={s.alt}
                     loading="lazy"
-                    className={`w-full object-cover ${aspectClass}`}
+                    className="relative h-full w-full object-contain"
                   />
                   {s.caption && (
                     <figcaption className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/75 via-black/30 to-transparent px-6 pb-5 pt-16 text-sm font-medium text-cream-50 sm:text-base">
